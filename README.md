@@ -11,7 +11,7 @@ SecureTool is a comprehensive cybersecurity utility library designed to simplify
 Perform various types of network scans on individual IP addresses or entire networks.
 
 **Scanning Modes:**
-
+#jhuhjgfhjn
 - `regular_scan()` — scans ports 1-1024
 - `quick_scan()` — scans 100 common ports quickly
 - `deep_scan()` — scans 1000 ports with OS and version detection
