@@ -1,0 +1,13 @@
+name alan
+
+on : 
+  push:
+   
+   jobs:
+   - name: build
+     runs-on: ubuntu-latest
+     steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up JDK 11
+      - run : sudo apt-get install openjdk-11-jdk
